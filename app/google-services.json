@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189092889876",
+    "firebase_url": "https://motivational-quotes-4d870.firebaseio.com",
+    "project_id": "motivational-quotes-4d870",
+    "storage_bucket": "motivational-quotes-4d870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189092889876:android:d96ccaa379309836216e01",
+        "android_client_info": {
+          "package_name": "com.muiezarif.motivationalquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189092889876-8rgfsfq52r11162r6qlbe3gat4gus87t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xQIjXyyupHOiyX7UAJ5En17wNE3WZM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189092889876-8rgfsfq52r11162r6qlbe3gat4gus87t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

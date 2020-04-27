@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MotivationalQuotes</string>
+
+    <string name="admob_app_id">ca-app-pub-7701765309854052~7747193850</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="admob_test_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_test_full">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_test_native">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_test_rewarded">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_author_banner">ca-app-pub-7701765309854052/1920152100</string>
+    <string name="admob_quote_banner">ca-app-pub-7701765309854052/5859397112</string>
+    <string name="admob_favourites_banner">ca-app-pub-7701765309854052/4354743758</string>
+    <string name="admob_info_banner">ca-app-pub-7701765309854052/9415498746</string>
+    <string name="admob_list_quote_banner">ca-app-pub-7701765309854052/2849842970</string>
+    <string name="admob_vp_quote_banner">ca-app-pub-7701765309854052/9223679636</string>
+    <string name="admob_full_ad">ca-app-pub-7701765309854052/7910597967</string>
+    <string name="admob_rewarded_ad">ca-app-pub-7701765309854052/3372834578</string>
+    <string name="info_text">Everybody nowadays uploads photos/videos on social apps like Whatsapp, Facebook, Instagram and Tiktok where they need a nice caption to get attention from the viewers so this is app can help them easily find best captions for the social media posts. You can also use these quotes on your books, painting, wall, mobile application, website etc.</string>
+    <string name="search_quotes_hint">Search Quotes...</string>
+    <string name="search_author_hint">Search Author...</string>
+</resources>
